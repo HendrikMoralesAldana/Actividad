@@ -1,0 +1,16 @@
+body{
+    background-color: #97ADBD;
+}
+#Cuadro{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#titulo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: #F2F2F2;
+    background-color: #8B8C89;
+    text-shadow: 4px 4px 4px #000000;
+    text-align: center;
+}
