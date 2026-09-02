@@ -1,0 +1,32 @@
+.cajapadre{
+    background-color: aqua;
+}
+.hijo1{
+    display: flex;
+    width: 300px;
+    height: 300px;
+}
+.imagen1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+
+.hijo2{
+    display: flex;
+    width: 300px;
+    height: 300px;
+}
+
+.hijo3{
+    display: flex;
+    width: 300px;
+    height:300px;
+}
+.hijo4{
+    display: flex;
+    width: 300px;
+    height: 300px;
+}
