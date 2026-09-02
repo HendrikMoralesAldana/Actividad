@@ -1,9 +1,16 @@
 body{
-    background-color: #fefae0
+    background-color: #a3b18a;
 }
-h1{
-    color: #606c38;
-    font-family: 'Arial', sans-serif;
-    text-align: center;
 
+.Titulo{
+    color: #283618;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 70px;
+}
+.Tema{
+    color: #99582a;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 50px;
 }
