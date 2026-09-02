@@ -1,0 +1,32 @@
+body{
+    background-color: #97ADBD;
+}
+#Cuadro{
+    display: flex;
+    text-align: center;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+#titulo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: #F2F2F2;
+    background-color: #8B8C89;
+    text-shadow: 4px 4px 4px #000000;
+    text-align: center;
+}
+#iniciosesion{
+    font-size: 30px;
+    color: #F2F2F2;
+    background-color: #919DA3;
+    text-shadow: 4px 4px 4px #000000;
+    text-align: center;
+}
+#registro{
+    font-size: 30px;
+    color: #F2F2F2;
+    background-color: #919DA3;
+    text-shadow: 4px 4px 4px #000000;
+    text-align: center;
+}
